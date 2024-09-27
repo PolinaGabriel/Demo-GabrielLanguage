@@ -1,0 +1,73 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="300"
+		MinWidth="600" MinHeight="300"
+		MaxWidth="600" MaxHeight="300"
+        x:Class="GabrielLanguage.CustomerVisits"
+        Title="Посещения клиента"
+		Background="#e7fabf">
+	<Grid>
+		<Line
+			StartPoint="0 0"
+			EndPoint="600 0"
+			Stroke="Gray"
+			StrokeThickness="1">
+		</Line>
+		<Border
+			Height="250"
+			Width="550"
+			BorderBrush="Gray"
+			BorderThickness="1"
+			CornerRadius="2">
+			<ScrollViewer
+				AllowAutoHide="False">
+				<Border>
+					<ListBox
+						x:Name="visitList">
+						<ListBox.ItemTemplate>
+							<DataTemplate>
+								<Border
+									Margin="0 0 15 0"
+									BorderBrush="Gray"
+									BorderThickness="1"
+									CornerRadius="2"
+									Padding="5">
+									<WrapPanel>
+									
+										<TextBlock
+											Margin="10"
+											Text="{Binding Date}">
+										</TextBlock>
+										<TextBlock
+											Margin="10"
+											Text="{Binding Time}">
+										</TextBlock>
+										<ListBox
+											ItemsSource="{Binding Files}">
+											<ListBox.ItemsPanel>
+												<ItemsPanelTemplate>
+													<WrapPanel
+														HorizontalAlignment="Center"/>
+												</ItemsPanelTemplate>
+											</ListBox.ItemsPanel>
+											<ListBox.ItemTemplate>
+												<DataTemplate>
+													<TextBlock
+														FontWeight="Bold"
+														Text="{Binding FileName}"/>
+												</DataTemplate>
+											</ListBox.ItemTemplate>
+										</ListBox>
+									</WrapPanel>
+								</Border>
+							</DataTemplate>
+						</ListBox.ItemTemplate>
+					</ListBox>
+				</Border>
+			</ScrollViewer>
+		</Border>
+	</Grid>
+</Window>
+

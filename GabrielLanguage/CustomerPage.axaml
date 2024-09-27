@@ -1,0 +1,194 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="905" d:DesignHeight="705"
+		MinWidth="905" MinHeight="705"
+		MaxWidth="905" MaxHeight="705"
+        x:Class="GabrielLanguage.CustomerPage"
+		Background="#e7fabf">
+  <Grid
+	  ColumnDefinitions="60 200 445 200"
+	  RowDefinitions="660 45">
+	  <TextBlock
+		  x:Name="idBlock"
+		  Grid.Column="0"
+		  Grid.Row="0"
+		  Margin="10">
+	  </TextBlock>
+	  <Border
+		  Grid.Column="1"
+		  Grid.Row="0"
+		  Margin="10"
+		  BorderBrush="Gray"
+		  BorderThickness="1"
+		  CornerRadius="2"
+		  Background="White">
+		  <WrapPanel
+			  HorizontalAlignment="Center"
+			  Orientation="Vertical">
+			  <Image
+				  x:Name="photoSample"
+				  Margin="10"
+				  HorizontalAlignment="Center"
+				  Width="150"
+				  Height="150"
+				  Source="">
+			  </Image>
+			  <Button
+				  Click="SelectImage"
+				  Margin="5"
+				  HorizontalAlignment="Center"
+				  Background="#04a0ff"
+				  Foreground="White"
+			      FontWeight="Bold"
+				  Content="Обзор">
+			  </Button>
+		  </WrapPanel>
+	  </Border>
+	  <Border
+		  Grid.Column="2"
+		  Grid.Row="0"
+		  Margin="0 10"			
+		  BorderBrush="Gray"			
+		  BorderThickness="1"
+		  CornerRadius="2"
+		  Background="White">
+		  <WrapPanel
+			  Orientation="Vertical">
+			  <TextBox
+				  x:Name="lastNameBox"
+				  Margin="10 10 5 5"
+				  HorizontalAlignment="Left"
+				  Width="300"
+				  MaxLength="50"
+				  Watermark="Фамилия">
+			  </TextBox>
+			  <TextBox
+				  x:Name="firstNameBox"
+				  Margin="10 10 5 5"
+				  HorizontalAlignment="Left"
+				  Width="300"
+				  MaxLength="50"
+				  Watermark="Имя">
+			  </TextBox>
+			  <TextBox
+				  x:Name="patronymBox"
+				  Margin="10 10 5 5"
+				  HorizontalAlignment="Left"
+				  Width="300"
+				  MaxLength="50"
+				  Watermark="Отчество">
+			  </TextBox>
+			  <StackPanel>
+				  <Grid
+					 ColumnDefinitions="40 *">
+					  <TextBlock
+						 Grid.Column="0"
+						 Margin="10 10 5 5"
+						 Text="Пол:">
+					  </TextBlock>
+					 <ToggleSwitch
+						 x:Name="SexSwitch"
+						 Grid.Column="1"
+						 Margin="10 5 5 5"
+						 OnContent="М"
+						 OffContent="Ж">
+					 </ToggleSwitch>
+				  </Grid>
+			  </StackPanel>
+		      <StackPanel>
+				  <Grid
+					  ColumnDefinitions="120 *">
+					  <TextBlock
+						  Grid.Column="0"
+						  Margin="10 10 5 5"
+						  Text="Дата рождения:">
+					  </TextBlock>
+					  <Calendar
+						  x:Name="birthCalendar"
+						  Grid.Column="1"
+						  Margin="10 10 5 10"
+						  >
+					  </Calendar>
+				  </Grid>
+			  </StackPanel>
+			  <TextBox
+				  x:Name="phoneBox"
+				  Margin="10 10 5 5"
+				  HorizontalAlignment="Left"
+				  Width="300"
+				  Watermark="Телефон">
+			  </TextBox>
+			  <MaskedTextBox
+				  x:Name="emailBox"
+				  Margin="10 10 5 5"
+				  HorizontalAlignment="Left"
+				  Width="300"
+				  Watermark="Почта">
+			  </MaskedTextBox>
+		  </WrapPanel>
+	  </Border>
+	  <Border
+		  Grid.Column="3"
+		  Grid.Row="0"
+		  Margin="10"
+		  BorderBrush="Gray"
+		  BorderThickness="1"
+		  CornerRadius="2"
+		  Background="White">
+		  <WrapPanel
+			  HorizontalAlignment="Center"
+			  Orientation="Vertical">
+			  <Button
+				  Click="OpenCustomerVisits"
+				  Margin="10"
+				  Background="#04a0ff"
+				  Foreground="White"
+				  FontWeight="Bold"
+				  Content="Посещения">
+			  </Button>
+			  <ListBox
+				x:Name="tagList"
+				SelectionMode="Multiple">
+				  <ListBox.ItemTemplate>
+					  <DataTemplate>
+						  <TextBlock
+							  FontWeight="Bold"
+							  Foreground="{Binding Color}"
+							  Text="{Binding TagName}"/>
+					  </DataTemplate>
+				  </ListBox.ItemTemplate>
+			  </ListBox>
+		  </WrapPanel>
+	  </Border>
+	  <WrapPanel
+		  Grid.Column="2"
+		  Grid.ColumnSpan="2"
+		  Grid.Row="1"
+		  HorizontalAlignment="Right">
+		  <Button 
+			  Click="Cancel"
+			  Margin="0"
+			  Background="#04a0ff"
+			  Foreground="White"
+			  FontWeight="Bold"
+			  Content="Отмена">
+		  </Button>
+		  <Button
+			  Click="Save"
+			  Margin="10 0"
+			  Background="#04a0ff"
+			  Foreground="White"
+			  FontWeight="Bold"
+			  Content="Сохранить">
+		  </Button>
+	  </WrapPanel>
+	  <Line
+		  StartPoint="0 0"
+		  EndPoint="905 0"
+		  Stroke="Gray"
+		  StrokeThickness="1">
+	  </Line>
+  </Grid>
+</Window>

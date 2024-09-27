@@ -1,0 +1,919 @@
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.exe
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.deps.json
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.runtimeconfig.json
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.pdb
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.AssemblyReference.cache
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\resources
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfoInputs.cache
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfo.cs
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.CoreCompileInputs.cache
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\references
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\refint\GabrielLanguage.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.dll
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.pdb
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielL.CB205B09.Up2Date
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.genruntimeconfig.cache
+C:\Users\prdb\source\repos\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\ref\GabrielLanguage.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.exe
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.deps.json
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.runtimeconfig.json
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.pdb
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Base.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Dialogs.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Metal.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.MicroCom.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.OpenGL.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Desktop.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Native.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Skia.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Win32.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.X11.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\MicroCom.Runtime.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\SkiaSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.AssemblyReference.cache
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\resources
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfoInputs.cache
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfo.cs
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.CoreCompileInputs.cache
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\references
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.pdb
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.ref.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\refint\GabrielLanguage.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.dll
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.pdb
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielL.CB205B09.Up2Date
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.genruntimeconfig.cache
+E:\Финская\Демка\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\ref\GabrielLanguage.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.AssemblyReference.cache
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\resources
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfoInputs.cache
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfo.cs
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.CoreCompileInputs.cache
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\refint\GabrielLanguage.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.pdb
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\references
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.pdb
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.ref.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.exe
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.deps.json
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.runtimeconfig.json
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.pdb
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Base.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Dialogs.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Metal.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.MicroCom.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.OpenGL.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Desktop.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Native.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Skia.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Win32.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.X11.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Castle.Core.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\MicroCom.Runtime.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\SkiaSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielL.CB205B09.Up2Date
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.genruntimeconfig.cache
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\ref\GabrielLanguage.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Core.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Identity.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Humanizer.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.CodeDom.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.exe
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.deps.json
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.runtimeconfig.json
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.pdb
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Base.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Dialogs.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Metal.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.MicroCom.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.OpenGL.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Desktop.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Native.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Skia.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Win32.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.X11.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Core.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Identity.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Castle.Core.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Humanizer.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\MicroCom.Runtime.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\SkiaSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.CodeDom.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.AssemblyReference.cache
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\resources
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfoInputs.cache
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfo.cs
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.CoreCompileInputs.cache
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\references
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.pdb
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.ref.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\refint\GabrielLanguage.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.pdb
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielL.CB205B09.Up2Date
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.genruntimeconfig.cache
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\ref\GabrielLanguage.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Text.Json.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Финская\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.exe
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.deps.json
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.runtimeconfig.json
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\GabrielLanguage.pdb
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Base.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Dialogs.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Markup.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Metal.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.MicroCom.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.OpenGL.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Desktop.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Native.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Skia.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.Win32.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Avalonia.X11.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Core.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Azure.Identity.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Castle.Core.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\HarfBuzzSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Humanizer.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\MicroCom.Runtime.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\SkiaSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.CodeDom.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.AssemblyReference.cache
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\resources
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfoInputs.cache
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.AssemblyInfo.cs
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.csproj.CoreCompileInputs.cache
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\references
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.pdb
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\Avalonia\original.ref.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\refint\GabrielLanguage.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.dll
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.pdb
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielL.CB205B09.Up2Date
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\GabrielLanguage.genruntimeconfig.cache
+E:\Учебная практика\Language\GabrielLanguage\GabrielLanguage\obj\Debug\net8.0\ref\GabrielLanguage.dll
